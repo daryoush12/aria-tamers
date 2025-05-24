@@ -22,3 +22,5 @@ cd api
 ```bash
 node index.js
 ```
+
+AI says hello world.
