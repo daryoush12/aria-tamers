@@ -1,1 +1,1 @@
-function HelloWorld() { return <div>Hello World</div></div>; }
+function HelloWorld() { return <div>Hello World</div>; }
